@@ -32,10 +32,6 @@ This repository is primarily a DevOps learning project. The emphasis is on repea
 
 See the README inside ci-cd-final-project-main for the original project-specific execution instructions.
 
-## Portfolio context
-
-This is a supporting portfolio project demonstrating CI/CD and delivery practices alongside the larger application projects.
-
 ## License
 
 Apache License 2.0.
